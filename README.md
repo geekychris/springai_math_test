@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Springai Math Test logo" width="180">
+</p>
+
 # Math Agent with Spring AI and Ollama
 
 Agentic Math Service that uses Spring AI with local LLM (Llama via Ollama) to parse natural language math queries.
